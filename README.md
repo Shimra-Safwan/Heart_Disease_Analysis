@@ -4,10 +4,12 @@ This project focuses on predicting the risk of heart disease using machine learn
 
 Kaggle Dataset: Predicting Heart Disease Risk (https://www.kaggle.com/datasets/thedevastator/predicting-heart-disease-risk-using-clinical-var)
 
+
 Data Analysis & Preprocessing
 
 Exploratory Data Analysis (EDA): Identified feature distributions using histograms and box plots, highlighting key trends and potential outliers.
 Correlation Analysis: Showed that features like maximum heart rate and chest pain type strongly correlate with heart disease.
+
 
 Model Development & Evaluation
 
@@ -18,6 +20,7 @@ Performance Metrics:
 Confusion Matrices Analysis:
   Logistic Regression demonstrated better predictive balance.
   Decision Tree had a higher false positive rate, indicating potential overfitting.
+  
 
 Key Findings & Conclusion
 
